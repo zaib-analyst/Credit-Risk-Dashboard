@@ -27,7 +27,7 @@ across 5,000 bank customers.
 ## Dashboard Screenshots
 
 ### Page 1 — Risk Summary
-![Dashboard P1](dashboard_p1.png)
+![Dashboard P1](dashboard_p1.png.png)
 
 ### Page 2 — Customer Profile
-![Dashboard P2](dashboard_p2.png)
+![Dashboard P2](dashboard_p2.png.png)
