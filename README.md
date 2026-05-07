@@ -24,7 +24,7 @@ across 5,000 bank customers.
 - Total Customers, High Risk %, Total Debt, Avg Credit Score
 - Credit Risk Distribution donut chart
 
-- ## Dashboard Screenshots
+## Dashboard Screenshots
 
 ### Page 1 — Risk Summary
 ![Dashboard P1](dashboard_p1.png)
