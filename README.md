@@ -20,6 +20,10 @@ across 5,000 bank customers.
 - 3 slicers connected across both pages
 - Dark professional theme
 
+- ✅ GETPIVOTDATA for dynamic slicer-connected KPIs
+✅ IFERROR error handling on all KPI cards
+✅ Sheet protection — interact only via slicers and buttons
+
 ## Page 1 — Risk Summary
 - Total Customers, High Risk %, Total Debt, Avg Credit Score
 - Credit Risk Distribution donut chart
